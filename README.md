@@ -1,5 +1,5 @@
 Hi, I'm Richard, an Architect and Technology Consultant still having to code/script sometimes.
-- ⚡ Fun fact: ...
+
 
 <!---
 rsmithgs/rsmithgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
